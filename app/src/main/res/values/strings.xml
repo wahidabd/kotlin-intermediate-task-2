@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kotlin Intermediate 2</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nomer_hp">Nomer Hp</string>
+    <string name="email">Email</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+</resources>
